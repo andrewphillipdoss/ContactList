@@ -1,3 +1,7 @@
+A Contact List app built using React that fetches data from an API and displays it.
+deployment can be seen here: https://contacts-app-react.herokuapp.com/
+
+____________________
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
